@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 want to test git 
 
 Test
+=======
+i want to test git 
+>>>>>>> 1654509a2d2b70bb9192e23f1ead51e829779934
